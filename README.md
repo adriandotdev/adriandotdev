@@ -21,4 +21,4 @@
 
 ``Let's connect!``
 
-Twitter: @NadsMarcelo
+Twitter: [@NadsMarcelo](https://twitter.com/NadsMarcelo)
