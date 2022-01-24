@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! ✌ Adrian Nads</h1>
+<h1 align="center">Hello There! ✌ I'm Adrian Nads</h1>
 <h3 align="center">A passionate Web Developer from the Philippines.</h3>
 
 - 🔭 I’m currently working on **Second Portfolio Site**
