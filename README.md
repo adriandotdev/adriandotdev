@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nads</h1>
+<h1 align="center">Hi 👋, I'm Nads Marcelo</h1>
 <h3 align="center">A solution-oriented Web Developer from the Philippines</h3>
 
 - 🔭 I’m currently working on **Kayamanan: The Hunt for Philippine Treasures**
