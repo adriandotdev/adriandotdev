@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React.js, CSS, JavaScript, Java, C#, OOP, DSA**
 
-- 📫 How to reach me **marcelonads@gmail.com**
+- 📫 How to reach me **adriannadslaurianomarcelo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
