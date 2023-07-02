@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript and Design Patterns**
 
-- 👨‍💻 All of my projects are available at [[https://marcelo-portfolio.netlify.app/](https://adriandotdev.vercel.app)]
+- 👨‍💻 All of my projects are available at [[https://adriandotdev.vercel.app](https://adriandotdev.vercel.app)]
 
 - 💬 Ask me about **React.js, CSS, JavaScript, Java, C#, OOP, DSA**
 
