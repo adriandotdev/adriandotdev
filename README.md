@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nads Marcelo</h1>
 <h3 align="center">A solution-oriented Web Developer from the Philippines</h3>
 
-- 🔭 I’m currently having an Internship at **Pixel8 Web Solutions**
+- 🔭 I'm currently looking for an entry-level job
 
 - 🌱 I’m currently learning **TypeScript and Design Patterns**
 
