@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently looking for an entry-level job
 
-- 🌱 I’m currently learning **TypeScript and Design Patterns**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [[https://adriandotdev.vercel.app](https://adriandotdev.vercel.app)]
 
