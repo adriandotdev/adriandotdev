@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [[https://adriandotdev.vercel.app](https://adriandotdev.vercel.app)]
 
-- 💬 Ask me about **React.js, CSS, JavaScript, Java, C#, OOP, DSA**
+- 💬 Ask me about **MongoDB, ExpressJS, ReactJS, and NodeJS**
 
 - 📫 How to reach me **adriannadslaurianomarcelo@gmail.com**
 
