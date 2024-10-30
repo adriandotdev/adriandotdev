@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nads</h1>
+<h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">Software Developer</h3>
 
 - 👨‍💻 All of my projects are available at [[https://adriandotdev.vercel.app](https://adriandotdev.vercel.app)]
