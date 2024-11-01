@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nads Marcelo</h1>
+<h1 align="center">Hi 👋, I'm Adrian Marcelo</h1>
 <h3 align="center">A solutions-oriented software developer</h3>
 
 - 🔭 I’m currently working on **YourTodo. A simple project to practice and learn NextJS and its capabilities to do fullstack development.**
