@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adrian Marcelo</h1>
-<h3 align="center">A solutions-oriented software developer</h3>
+<h1 align="center">Hi 👋, I'm Adrian Nads</h1>
+<h3 align="center">A Solutions-Oriented Software Developer</h3>
 
-- 🔭 I’m currently working on **YourTodo. A simple project to practice and learn NextJS and its capabilities to do fullstack development.**
+- 🔭 Continuous Learning.
 
-- 🌱 I’m currently learning **C#, .NET, and NextJS**
+- 🌱 Utilizing NextJS, TypeScript, TRPC, Drizzle, and PostgreSQL
 
 - 👨‍💻 All of my projects are available at [https://adriandotdev.vercel.app](https://adriandotdev.vercel.app)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **adriannadslaurianomarcelo@gmail.com**
 
-- 📄 I'm currently a **Back End Developer**
+- 📄 I'm currently a **Full-Stack Developer at GIG**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
