@@ -5,8 +5,6 @@
 
 - 🌱 Utilizing NextJS, TypeScript, TRPC, Drizzle, and PostgreSQL
 
-- 👨‍💻 All of my projects are available at [https://adriandotdev.vercel.app](https://adriandotdev.vercel.app)
-
 - 💬 Ask me about **Tech and Life**
 
 - 📫 How to reach me **adriannadslaurianomarcelo@gmail.com**
