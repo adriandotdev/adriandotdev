@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Tech and Life**
 
-- 📫 How to reach me **adriannadslaurianomarcelo@gmail.com**
-
 - 📄 I'm currently a **Full-Stack Developer at GIG**
 
 <h3 align="left">Connect with me:</h3>
