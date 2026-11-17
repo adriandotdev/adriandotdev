@@ -77,8 +77,8 @@ Uses AI-assisted tools daily and is moving toward AI engineering.</sub>
 
 <br/>
 
-- Builds tRPC APIs (about 80% of existing implementations); maintains a React Native app serving 800k+ users
-- Implemented a KYC verification workflow to reduce fraudulent accounts
+- Builds tRPC APIs; maintains a React Native app serving 800k+ users
+- Integrated a KYC verification workflow to reduce fraudulent accounts
 - Built an AI data-collection PWA (Next.js, tRPC, AWS Amplify), admin tools, a Next.js dashboard, and a web training app for BPO workers
 - Metabase dashboards, user profiling, Firebase/Google Analytics tracking
 - Testing: Jest (~70% core server logic), Cypress and Playwright (~90% page coverage)
