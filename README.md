@@ -51,9 +51,9 @@
 
 <br/>
 
-<sub>Full-stack and back end engineer who designs APIs, microservices, and the web and mobile apps built on them.<br/>
-Works mainly with Node.js, TypeScript, PostgreSQL and AWS. Wrote roughly 80% of the tRPC APIs for a product serving 800k+ users,<br/>
-implemented the OCPP protocol for EV charging, and maintains codebases with automated testing and CI/CD.<br/>
+<sub>Full-stack and back end engineer with 3+ years of experience designing APIs, and the web and mobile apps built on them.<br/>
+Works mainly with Node.js, TypeScript, PostgreSQL and AWS. On the frontend, maintains a React Native app serving 800k+ users and has built a Next.js dashboard and an AI data-collection PWA on AWS Amplify.<br/>
+Implemented the OCPP protocol for EV charging, and keeps codebases reliable with thorough automated testing and CI/CD.<br/>
 Uses AI-assisted tools daily and is moving toward AI engineering.</sub>
 
 <br/><br/>
@@ -223,25 +223,45 @@ Uses AI-assisted tools daily and is moving toward AI engineering.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:B22222,50:FFD700,100:FF6B1A" width="100%" alt=""/>
 
-<h2 align="center">🎯 Training Center Scores 🎯</h2>
+<h2 align="center">🔭 Scouting Reports 🔭</h2>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:B22222,50:FFD700,100:FF6B1A" width="100%" alt=""/>
 
 <br/>
 
-*The Gamemakers have scored me on their 1–12 scale.*
+<sub><i>What fellow tributes say, from LinkedIn recommendations</i></sub>
 
-| Skill | Score (1-12) | 🔥 / ▫️ |
-| :--- | :---: | :--- |
-| API Design (tRPC · REST) | **11** | 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥▫️ |
-| TypeScript and Node.js | **10** | 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥▫️▫️ |
-| AWS Serverless | **9** | 🔥🔥🔥🔥🔥🔥🔥🔥🔥▫️▫️▫️ |
-| PostgreSQL and Data Modeling | **9** | 🔥🔥🔥🔥🔥🔥🔥🔥🔥▫️▫️▫️ |
-| React and Next.js | **9** | 🔥🔥🔥🔥🔥🔥🔥🔥🔥▫️▫️▫️ |
-| Automated Testing | **9** | 🔥🔥🔥🔥🔥🔥🔥🔥🔥▫️▫️▫️ |
-| CI/CD and Docker | **8** | 🔥🔥🔥🔥🔥🔥🔥🔥▫️▫️▫️▫️ |
-| OCPP and EV Charging | **8** | 🔥🔥🔥🔥🔥🔥🔥🔥▫️▫️▫️▫️ |
-| AI Engineering | **6** | 🔥🔥🔥🔥🔥🔥▫️▫️▫️▫️▫️▫️ |
+<br/><br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <i>"Adrian consistently demonstrated exceptional technical skills, a strong work ethic, and a genuine passion for software development."</i>
+      <br/><br/>
+      <b>Rusty James Valladolid</b><br/>
+      <sub>Software Engineer | Automation Specialist<br/>
+      Mentor at Pixel8 · September 2023</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <i>"One of the best developers Sysnet has ever had... you were truly a valuable asset to the team."</i>
+      <br/><br/>
+      <b>Jerry Marc Hermoso</b><br/>
+      <sub>Back-End Web Developer / Node JS Developer<br/>
+      Managed me directly at SysNet · February 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <i>"Nads consistently delivers clean, maintainable code and demonstrates a solid understanding of both frontend and backend development."</i>
+      <br/><br/>
+      <b>Joseph Grospe</b><br/>
+      <sub>Senior Backend Developer | AWS | Node.js, TypeScript, Next.js<br/>
+      Senior colleague · February 2026</sub>
+    </td>
+  </tr>
+</table>
+
+<sub><a href="https://www.linkedin.com/in/adrianmarcelo/">Read the full recommendations on LinkedIn →</a></sub>
 
 <br/>
 
